@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sivakumar R  
+# 👋 Hi there, I'm Sivakumar Ravichandran 
 
 ## 🧑🏻‍💻 About Me  
 I’m an aspiring **DevOps Engineer ♾️** passionate about automation, cloud technologies, and building scalable systems.  
