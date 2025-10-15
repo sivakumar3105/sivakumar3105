@@ -1,35 +1,34 @@
-# Hi there 👋, I'm SivaKumar
+# 👋 Hi there, I'm Sivakumar R  
 
 ## 🧑🏻‍💻 About Me  
-I’m an aspiring **DevOps Engineer ♾️** passionate about automation, cloud, and building scalable systems.  
-As a fresher, I’m focused on learning and applying **DevOps & Cloud-Native technologies** to solve real-world challenges.  
+I’m an aspiring **DevOps Engineer ♾️** passionate about automation, cloud technologies, and building scalable systems.  
+As a fresher, I’m focused on mastering **DevOps & Cloud-Native technologies** to solve real-world infrastructure challenges.
 
-- 🌱 Currently exploring **Docker,jenkins, Kubernetes, Terraform, AWS, and CI/CD pipelines**  
-- 💡 Interested in **cloud infrastructure, automation, and open-source projects**  
-- 🎯 Goal: To grow as a **skilled DevOps Engineer** and contribute to impactful projects  
-- ⚡ Fun fact: I love breaking big problems into small steps and automating them 🚀  
+- 🌱 Currently exploring **Docker**, **Jenkins**, **Kubernetes**, **Terraform**, **AWS**, and **CI/CD pipelines**  
+- 💡 Interested in **cloud infrastructure**, **automation**, and **open-source collaboration**  
+- 🎯 Goal: To grow as a **skilled DevOps Engineer** and contribute to impactful cloud projects  
+- ⚡ Fun fact: I love breaking big problems into smaller tasks — and automating them 🚀  
 
-📫 How to reach me:  
-- [LinkedIn]www.linkedin.com/in/sivakumar310 
-- [Email](mailto:siva310597@gmail.com)  
+📫 **How to reach me:**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sivakumar3105)  
+- 📧 [Email](mailto:siva310597@gmail.com)  
 
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Languages**: Python, Bash, JavaScript (basic)  
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD  
-- **Cloud & IaC**: AWS, Terraform, Ansible, Helm  
-- **Monitoring**: Prometheus, Grafana  
-- **Version Control**: Git & GitHub  
+- **Languages:** Python, Bash, JavaScript (Basic)  
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD  
+- **Cloud & IaC:** AWS, Terraform, Ansible, Helm  
+- **Monitoring:** Prometheus, Grafana  
+- **Version Control:** Git & GitHub  
 
 ---
 
 ## 🌱 Current Learning Goals  
-- Deep dive into **Kubernetes & Terraform**  
+- Deep dive into **Kubernetes** and **Terraform**  
 - Strengthen **CI/CD pipeline automation**  
-- Contribute to **open-source DevOps projects**
+- Contribute to **open-source DevOps projects**  
 
-  
 ---
 
 ⭐️ *“Passionate about learning, eager to contribute, and ready to grow as a DevOps Engineer.”*  
